@@ -18,6 +18,18 @@ export const Footer = () => {
                 <li><a href="#login">LOGIN</a></li>
             </ul>
         </div>
+        <div>
+            <h3>Contact</h3>
+            <p>Address</p>
+            <p>Phone Number</p>
+            <p>Email</p>
+        </div>
+        <div>
+            <h3>Social Media Links</h3>
+            <p>Address</p>
+            <p>Phone Number</p>
+            <p>Email</p>
+        </div>
     </footer>
   )
 }
