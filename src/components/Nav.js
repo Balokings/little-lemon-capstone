@@ -1,11 +1,11 @@
 import React from 'react'
-import Logo from '../../assets/logo.svg';
+import logo from '../../assets/logo.png';
 
 const Nav = () => {
   return (
     <nav>
         <div>
-            <img src={Logo} alt='logo' />
+            <img src={logo} alt='logo' />
         </div>
         <div>
             <ul>
